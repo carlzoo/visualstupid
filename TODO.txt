@@ -1,0 +1,10 @@
+Todo list:
+
+[X]import dependencies to file
+[X]get pyocr working for single file
+[]recursive file support
+[X]operating system check
+[]compilers available check
+
+Supported languages:
+C, C++, Java, Perl, Python, Racket, Ruby, 

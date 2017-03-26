@@ -1,0 +1,1 @@
+char stringBl] = "this is string 3";
