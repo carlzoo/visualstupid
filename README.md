@@ -4,6 +4,6 @@ made for Terriblehacks 2017
 
 # Usage:
 
-python visualstupid.py -f <imagefile>
+python visualstupid.py -f \<imagefile\>
 
-python visualstupid.py -r <directory>
+python visualstupid.py -r \<directory\>
